@@ -1,15 +1,39 @@
 Hi 👋 My name is Razu Islam
 ===========================
 
-Web Developer & Desinger
+Mern Stack Developer || JavaScript Developer || Typescript Developer
 ------------------------
 
-I am dedicated my life to learning what makes humans tick. I studies, researches and reads everything hecan, and shares me findings with me clients. My philosophy is to learn, test, analyse, improve and re-test. I'm motto is stay agile. I'm a Freelancer Front-end Developer with over half years of experience. I'm from Bangladesh. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences.
+Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing Web and Android Application. My main Stack is MERN stack and I've really great experience with it. I can write clean and reusable codes. I've added a few of my MERN project to my portfolio, you can check them out.
+
+I'm familiar with:
+JavaScript,
+Typescript,
+React,
+React Native,
+Next,
+Redux,
+Node,
+Express,
+Restfull Api,
+Three.js,
+IBM Cloud Services,
+Web Scrapping,
+Advance Mapping using Mapbox or google Map,
+Firebase,
+WebRTC,
+Vue.js
+Next.js
+OpenSignal,
+Testing libraries: Jest for unit test & Cypress for e2e.
+& most of the UI library starting tailwind to MUI
+
+AND ALWAYS LEARNING NEW TECHNOLOGIES.
 
 * 🌍  I'm based in Pabna Bangladesh
-* 🖥️  See my portfolio at [Razu Islam](http://jsdevrazuislam.netlify.app)
+* 🖥️  See my portfolio at [Razu Islam](https://jsdevrazu.vercel.app)
 * ✉️  You can contact me at [islamrajulearn.dev@gmail.com](mailto:islamrajulearn.dev@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Typescript
 
 <a href="https://www.github.com/jsdevraju" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jsdevraju?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
