@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
 <h1 align="center">👋 My name is Razu Islam</h1>
 
-Mern Stack Developer || JavaScript Developer || Typescript Developer || Content Creator || React Native Developer
+Junior Front-end Developer || JavaScript Developer || Typescript Developer || Content Creator || React Native Developer
 -----------------------------------------------------------------------------------------------------------------
 
 Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing Web and Android Application. My main Stack is MERN stack and I've really great experience with it. I can write clean and reusable codes. I've added a few of my MERN project to my portfolio, you can check them out. I'm familiar with: JavaScript, Typescript, React, React Native, Nuxt, Redux, Node, Express, Restfull Api, Advance Mapping using Mapbox or google Map, Firebase, WebRTC, Vue.js Next.js & most of the UI library starting tailwind to MUI AND ALWAYS LEARNING NEW TECHNOLOGIES.
