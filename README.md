@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
 <h1 align="center">👋 I'm Razu Islam</h1>
 
-<h1 align="center">Junior Front-end Developer || JavaScript Developer || Typescript Developer || Content Creator || React Native Developer</h1>
+<h1 align="center">Full Stack Developer || JavaScript Developer || Typescript Developer || Content Creator || React Native Developer</h1>
 --------------------------
 
 Experienced Front-end development with over 1 year of experience in the software industry. Excellent reputation for resolving problems and improving customer satisfaction. I'm a junior software developer to help you build on your product or software anything you want. As a developer, it's my duty to help you. Recently I build some awesome software or product you can check out my LinkedIn featured or check out my portfolio. I will try to help people who need to build a product or people who already have a product they need to redesign or fix some issue. I have 1 year of experience in developing an amazing product for people. My main stack is the MERN stack but most of my experience I greater in front development and I've really great experience with it. I can write clean and reusable codes.
