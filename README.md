@@ -1,8 +1,13 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
 <h1 align="center">👋 I'm Razu Islam</h1>
 
-<h1 align="center">Full Stack Developer || JavaScript Developer || Typescript Developer || Content Creator || React Native Developer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mern+Stack+Developer;React+Native+Developer;JavaScript+Developer;Typescript+Developer;Content+Creator)](https://git.io/typing-svg)
 --------------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdevrazu&label=Profile%20views&color=0e75b6&style=flat" alt="jsdevrazu" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsdevraju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 I'm a Experienced Full Stack Web developer with over 2 years of experience in software industry. Excellent reputation for resolving problems and improving customer satisfaction. I'm a Full Stack Web developer to help you to build your personal website with seamless customization. I've worked on many complex data management project and I've been learning each day. I'm Highly proficient in both front-end and back-end frameworks along with relational / non-relational databases and well versed in API creation & integration. I can work and manage from development to test to deployment & my another expertise is, I write very clean and readable code.
 
