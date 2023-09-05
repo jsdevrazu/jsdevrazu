@@ -8,13 +8,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsdevrazu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently working on **Something Big**
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
 - 👯 I’m looking to collaborate on **Food Delivery App**
 
-- 👨‍💻 All of my projects are available at [http://devcoded.com](http://devcoded.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://razu-islam.vercel.app)
 
 - 💬 Ask me about **react.js,next.js,vue.js,nuxt.js,svelte kit**
 
